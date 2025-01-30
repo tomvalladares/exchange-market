@@ -55,9 +55,10 @@ npm run dev
 
 # Developer Notes
 
-> **Disclaimer:** To test the complete flow:
-> - Press `D` key to enable the developer toolbar
-> - Use the toolbar to inject and reset match cases
+> **Disclaimer:** Para testear correctamente el flujo:
+> - Presionar tecla `D` para habilitar una custom toolbar.
+> - Usar la toolbar para inyectar y resetear casos de matching
+
 
 ## 🎨 Diseño de UI/UX <a name="diseño"></a>
 
