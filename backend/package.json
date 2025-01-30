@@ -1,11 +1,11 @@
 {
-  "name": "backend",
+  "name": "exchange-market-be",
   "version": "1.0.0",
   "description": "Backend with Fastify and SQLite",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "dependencies": {
     "@fastify/cors": "^8.3.0",

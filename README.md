@@ -19,14 +19,12 @@
 
 ## 🎯 Objetivo del Proyecto <a name="objetivo"></a>
 
-El objetivo es desarrollar un prototipo de webapp que conecte a personas que necesiten intercambiar efectivo por dinero electrónico.
+El objetivo es desarrollar un prototipo de webapp que conecte a personas que necesiten intercambiar efectivo por dinero electrónico y viceversa.
 
-### Requisitos principales:
+### Stack elegido:
 
-- ⚙️ Backend con base de datos relacional (recomendado: SQLite)
-- 🎨 Frontend con la tecnología de tu preferencia
-- 📱 Compatibilidad con sistema de notificaciones futuro
-- 👥 UI/UX intuitiva
+- ⚙️ Backend fastify con base de datos relacional (SQLite)
+- 🎨 Frontend vuejs + pug + stylus + pinia + custom fluid postcss plugin.
 
 ## 🏗 Arquitectura y Modelado <a name="arquitectura"></a>
 
