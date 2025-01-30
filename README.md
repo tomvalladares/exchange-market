@@ -118,6 +118,7 @@ La interfaz de usuario ha sido diseñada siguiendo principios básicos de usabil
    - Actualizaciones en tiempo real de intercambios
 
 3. **Arquitectura Frontend**
+   - Poder editar una publicación ya realizada.
    - Implementación de arquitectura de componentes (átomos, moléculas, organismos)
    - Design system y documentación
    - Sistema de manejo de estados global
@@ -153,6 +154,7 @@ La interfaz de usuario ha sido diseñada siguiendo principios básicos de usabil
    - [x] Testing devtool bar al presionar tecla d.
    - [x] Sistema de match básico.
    - [x] Maqueta en figma.
+   - [ ] Edición de publicación realizada.
    - [ ] Sistema de match parcial
    - [ ] Sistema de notificación
    - [ ] Login / Auth
