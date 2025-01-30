@@ -2,7 +2,7 @@
 import { onMounted } from 'vue'
 import { useExchangeStore } from '@/stores/exchange'
 import { useUserStore } from '@/stores/user'
-import Topbar from './components/topbar.vue'
+import Topbar from './components/Topbar.vue'
 
 const exchangeStore = useExchangeStore()
 const userStore = useUserStore()
