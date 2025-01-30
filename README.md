@@ -1,9 +1,8 @@
 # Cajero P2P - Exchange Market
 
-<div align="center">
+<div align="left">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 
 </div>
 
